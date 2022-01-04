@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taoonehacker
-- 👀 I’m interested in C# go
-- 🌱 I’m currently learning go
+- 👀 I’m interested in C# go rust
+- 🌱 I’m currently learning go rust
 - 💞️ I’m looking to collaborate on 
 - 📫 taoonehacker@gmail.com
 
